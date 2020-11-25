@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RKCamView", "RKCamView\RKCamView.csproj", "{DDF598C2-23D5-4717-A96E-DC83DCC2AFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF598C2-23D5-4717-A96E-DC83DCC2AFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF598C2-23D5-4717-A96E-DC83DCC2AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF598C2-23D5-4717-A96E-DC83DCC2AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF598C2-23D5-4717-A96E-DC83DCC2AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7682D230-135F-40D7-A3B0-CC29D6D1A6F4}
+	EndGlobalSection
+EndGlobal
